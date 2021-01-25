@@ -1,0 +1,16 @@
+# IDE files
+.vscode
+
+# build products
+go-island-of-secrets
+island-of-secrets
+island-of-secrets.exe
+
+# pdf copy of the book, not allowed to be distributed
+island-of-secrets.pdf
+
+# save files
+*.save
+
+# local solution folder
+solution
