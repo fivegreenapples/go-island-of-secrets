@@ -39,9 +39,7 @@ island-of-secrets.exe
 
 # Affordances for an Easier Life
 
-Replicating the original program is all very well but does lead to some slightly frustrating game play. Perhaps that was part of the charm back in the eighties, but if memory serves, it was equally if not more frustrating back then.
-
-For example, the `SAVE GAME` and `CONTINUE A SAVED GAME` operations both require typing out a filename plus a few other keystrokes. So just to save your progress and continue is a bit of a hassle. I've added a few niceties to make game play more pleasant:
+Replicating the original program is all very well but does lead to some slightly frustrating game play. Perhaps that was part of the charm back in the eighties, but if memory serves, it was equally if not more frustrating back then. Similarly to the Mystery of Silver Mountain, there are a few niceties to make game play more pleasant:
 
 1. Input commands are case insensitive.
 
